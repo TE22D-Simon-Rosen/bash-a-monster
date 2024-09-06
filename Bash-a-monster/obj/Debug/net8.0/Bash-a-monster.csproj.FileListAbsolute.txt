@@ -1,0 +1,14 @@
+c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\bin\Debug\net8.0\Bash-a-monster.exe
+c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\bin\Debug\net8.0\Bash-a-monster.deps.json
+c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\bin\Debug\net8.0\Bash-a-monster.runtimeconfig.json
+c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\bin\Debug\net8.0\Bash-a-monster.dll
+c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\bin\Debug\net8.0\Bash-a-monster.pdb
+c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\obj\Debug\net8.0\Bash-a-monster.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\obj\Debug\net8.0\Bash-a-monster.AssemblyInfoInputs.cache
+c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\obj\Debug\net8.0\Bash-a-monster.AssemblyInfo.cs
+c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\obj\Debug\net8.0\Bash-a-monster.csproj.CoreCompileInputs.cache
+c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\obj\Debug\net8.0\Bash-a-monster.dll
+c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\obj\Debug\net8.0\refint\Bash-a-monster.dll
+c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\obj\Debug\net8.0\Bash-a-monster.pdb
+c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\obj\Debug\net8.0\Bash-a-monster.genruntimeconfig.cache
+c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\obj\Debug\net8.0\ref\Bash-a-monster.dll
