@@ -12,3 +12,4 @@ c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-
 c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\obj\Debug\net8.0\Bash-a-monster.pdb
 c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\obj\Debug\net8.0\Bash-a-monster.genruntimeconfig.cache
 c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\obj\Debug\net8.0\ref\Bash-a-monster.dll
+c:\Users\simon.rosen2\Documents\Programmering 2 med micke b\bash-a-monster\Bash-a-monster\obj\Debug\net8.0\Bash-a-monster.sourcelink.json
